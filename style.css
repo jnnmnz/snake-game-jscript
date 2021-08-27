@@ -1,0 +1,21 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: rgb(7, 97, 67);
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-variant: small-caps;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
